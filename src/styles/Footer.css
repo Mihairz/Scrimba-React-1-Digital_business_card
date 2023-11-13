@@ -1,0 +1,22 @@
+#footer {
+    border-radius: 0px 0px 10px 10px;
+    background: #D5D4D8;
+}
+
+#footer>.fa-2x {
+    color: #918E9B;
+    margin: 10px;
+}
+
+#footer>a{
+    color: #918E9B;
+    margin: 10px;
+}
+
+#footer>.fa-2x:active {
+    color: #F47D27;
+}
+
+#footer>a:active {
+    color: #F47D27;
+}

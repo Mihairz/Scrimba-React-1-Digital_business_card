@@ -1,0 +1,44 @@
+#header>img {
+    width: 280px;
+}
+
+#header>h1 {
+    color: #2B283A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+#header>h2 {
+    color: #F47D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#header>button {
+    color: #374151;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    width: 247px;
+    padding: 9px 13px 9px 11px;
+    margin-bottom: 10px;
+
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    background: #FFF;
+}
+
+#header>button:active {
+    background-color: #F47D27;
+}
+
+.fa-envelope {
+    margin-right: 20px;
+}
