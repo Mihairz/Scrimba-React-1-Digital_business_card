@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## First launch
 1) `npm install`
 2) `npm start`
+
 App will run in development mode at [http://localhost:3000](http://localhost:3000) 
 ## Tests
 For tests: `npm test` or `npm run coverage`
