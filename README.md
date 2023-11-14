@@ -1,19 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1) ##`npm install`
-2) ###`npm start`
+1) `npm install`
+2) `npm start`
 
-For tests: ###`npm test` or npm run coverage
+App will run in development mode at [http://localhost:3000](http://localhost:3000) 
 
-
-### `npm start` 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. ( run ###`npm install` first)
-
-### `npm test` 
-Launches the test runner in the interactive watch mode.
-
-### `npm run coverage` 
-Launches the test runner in the interactive watch mode with coverage.
+For tests: `npm test` or `npm run coverage`
 
 ## Screenshot
 
