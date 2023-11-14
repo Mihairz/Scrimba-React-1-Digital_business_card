@@ -16,7 +16,6 @@ export default function Footer() {
             <FontAwesomeIcon icon={faSquareInstagram} size="2x" />
             <FontAwesomeIcon icon={faLinkedin} size="2x" />
             <FontAwesomeIcon icon={faGithubSquare} size="2x" />
-
         </section>
     )
 }

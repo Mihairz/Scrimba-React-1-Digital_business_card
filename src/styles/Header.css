@@ -21,6 +21,10 @@
 }
 
 #header>button {
+
+    -webkit-appearance: none !important;
+    appearance: none !important; 
+
     color: #374151;
     font-family: Inter;
     font-size: 16px;
@@ -32,11 +36,11 @@
 
     border-radius: 6px;
     border: 1px solid #D1D5DB;
-    background: #FFF;
+    background-color: initial !important;
 }
 
 #header>button:active {
-    background-color: #F47D27;
+    background-color: #F47D27 !important;
 }
 
 .fa-envelope {
