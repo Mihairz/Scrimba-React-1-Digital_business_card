@@ -1,7 +1,7 @@
 ## Digital Business Card
 Scrimba's immersive frontend course guides learners through key concepts, with solo projects after each section. 
-This is the inital section's final project, that focused on teaching about React components. 
-Therefore, Digital Business Card showcases a static web page made mostly with HTML and CSS but organised and rendered as React components.
+This is the **inital section**'s final project, that focused on teaching about** React components**. 
+Therefore, **Digital Business Card** showcases a static web page made mostly with HTML and CSS but organised and rendered as React components.
 
 
 ## First launch
